@@ -20,6 +20,7 @@ public class Test2 {
 
         });
     }
+
     private int[] numbersArray;
     private boolean testBoolean;
 

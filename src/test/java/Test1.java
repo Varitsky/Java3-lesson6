@@ -17,7 +17,6 @@ public class Test1 {
                 {new int[]{4, 3, 7, 5, 4, 4, 4, 2}, new int[]{2}},
                 {new int[]{4, 3, 7, 5, 4, 4, 3, 2}, new int[]{3, 2}},
                 {new int[]{3, 3, 7, 5, 3, 3, 3, 2}, new int[]{3, 2}},
-
         });
     }
 
@@ -45,6 +44,4 @@ public class Test1 {
     public void testAfterLast4Ex() {
         Task1.returnNewArrayAfterLastFour(in);
     }
-
-
 }
